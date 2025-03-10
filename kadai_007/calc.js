@@ -17,5 +17,5 @@ else if (num % 5 === 0) {
 }
 
 else {
-  console.log('num')
+  console.log(num)
 }
